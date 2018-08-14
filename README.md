@@ -9,3 +9,5 @@
 * bitnami WAMP stack manage가 실행됨
   - 따로 실행시 biitnami 검색 
   - 보통 C:\Bitnami\wampstack-** 경로에 manager-windows 라는 프로그램을 실행
+  
+생활코딩 web1 웹서버운영파트 참고
